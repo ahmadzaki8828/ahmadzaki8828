@@ -3,8 +3,8 @@
 I am a current second-year computer science student at York University, passionate about learning coding and building robust applications
 
 ## What I'm Up TO 🚀
-! Currently touching up on Python
-! Hope to learn some sort of SQL soon
+* Currently touching up on Python
+* Hope to learn some sort of SQL soon
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmaadzaki) 
