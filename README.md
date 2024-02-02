@@ -2,7 +2,7 @@
 # 💫 About Me:
 I am a current second-year computer science student at York University, passionate about learning coding and building robust applications
 
-### What I'm Up TO 🚀
+## What I'm Up TO 🚀
 ! Currently touching up on Python
 ! Hope to learn some sort of SQL soon
 
