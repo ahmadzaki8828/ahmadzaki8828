@@ -5,7 +5,7 @@ I am a current second-year computer science student at York University, passiona
 ## What I'm Up TO 🚀
 * Currently touching up on Python
 * Hope to learn some sort of SQL soon
-* Aiming to get a summer 2024 internship
+* Aiming to get a Fall 2024 internship
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmaadzaki) 
