@@ -4,7 +4,7 @@ I am a current third-year computer science student at York University, passionat
 
 ## What I'm Up TO 🚀
 * Currently learning and implementing AWS services in projects
-* Aiming to get a Summer 2025 internship
+* Aiming to get a Fall 2025 internship
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmaadzaki) 
