@@ -1,6 +1,6 @@
 # <p align = "center"> Hi 👋 I'm Ahmad Zaki </p>
 ## 💫 About Me:
-I am a current third-year computer science student at York University, passionate about learning coding and building robust applications.
+I am a current Fourth-year computer science student at York University, passionate about learning coding and building robust applications.
 
 ## What I'm Up TO 🚀
 * Currently learning and implementing AWS services in projects
